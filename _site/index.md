@@ -1,8 +1,9 @@
 
-[信息录入](./CONTRIBUTE)
+[信息录入](/red-cross/CONTRIBUTE)
 [免责声明](#免责声明)
 
 
+物资流入表
 <table id="">
     <caption>物资流入表</caption>
     <thead>
@@ -27,6 +28,7 @@
     </tbody>
 </table>
 <br>
+物资流出表
 <table id="">
     <caption>物资流出表</caption>
     <thead>

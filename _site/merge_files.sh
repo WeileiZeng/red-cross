@@ -1,9 +1,12 @@
-echo "this script merge all parts of readme into one file"
-cat head.md > README.md
-cat inflow.html >> README.md
-echo "<br>" >> README.md
-cat outflow.html >> README.md
-echo "<br>" >> README.md
-cat tail.md >> README.md
+out=index.md
+echo "this script merge all parts of readme into one file $out"
+cat head.md > $out
+echo "物资流入表" >> $out 
+cat inflow.html >> $out
+echo "<br>" >> $out
+echo "物资流出表" >> $out
+cat outflow.html >> $out
+echo "<br>" >> $out
+cat tail.md >> $out
 echo "finish merging"
 #less README.md
