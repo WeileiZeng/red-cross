@@ -2,8 +2,8 @@
 
 
 
-<table id="inflow">
-    <caption>inflow</caption>
+<table id="">
+    <caption>物资流入表</caption>
     <thead>
         <tr>
             <th>物资名称</th>

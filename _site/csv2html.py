@@ -10,7 +10,7 @@ def main():
     print("converting...")
     writer = HtmlTableWriter()
     writer.from_csv(csv_file_path)
-
+    writer.table_name = "物资流入表"
     writer.dump(html_file_path)
     #writer.write_table()
     print("done")
