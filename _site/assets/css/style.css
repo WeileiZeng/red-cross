@@ -317,3 +317,10 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+footer { display: none !important; }
+
+/*
+.btn { display: none !important;
+}
+*/

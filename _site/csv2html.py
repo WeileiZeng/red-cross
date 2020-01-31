@@ -4,8 +4,8 @@ from pytablewriter import HtmlTableWriter
 
 def main():
     # prepare data ---
-    csv_file_path = "data.csv"
-    html_file_path = ("data.html")
+    csv_file_path = "inflow.csv"
+    html_file_path = "inflow.html"
     print("this python script read table in ",csv_file_path, " and then write it into html file ",html_file_path)
     print("converting...")
     writer = HtmlTableWriter()
