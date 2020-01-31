@@ -2,18 +2,25 @@ import pytablereader as ptr
 import pytablewriter as ptw
 from pytablewriter import HtmlTableWriter
 
-def main():
-    # prepare data ---
-    csv_file_path = "inflow.csv"
-    html_file_path = "inflow.html"
+def convert(csv_file_path, html_file_path,table_name):
     print("this python script read table in ",csv_file_path, " and then write it into html file ",html_file_path)
     print("converting...")
     writer = HtmlTableWriter()
     writer.from_csv(csv_file_path)
-    writer.table_name = "物资流入表"
+    writer.table_name = table_name
     writer.dump(html_file_path)
     #writer.write_table()
     print("done")
+
+def main():
+    csv_file_path = "inflow.csv"
+    html_file_path = "inflow.html"
+    table_name = "物资流入表"
+    convert(csv_file_path, html_file_path,table_name)
+    csv_file_path = "outflow.csv"
+    html_file_path = "outflow.html"
+    table_name = "物资流出表"
+    convert(csv_file_path, html_file_path,table_name)
     
 if __name__=="__main__":
     main()
