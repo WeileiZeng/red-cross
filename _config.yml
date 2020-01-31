@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 
 
 title: "some title"
-repository: "https://github.com/WeileiZeng/red-cross"
+#repository: "https://github.com/WeileiZeng/red-cross"
+repo: "https://github.com/WeileiZeng/red-cross"
