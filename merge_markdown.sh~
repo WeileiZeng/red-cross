@@ -1,0 +1,3 @@
+cat head.md > README.md
+cat data.md >> README.md
+cat tail.md >> README.md
