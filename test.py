@@ -1,3 +1,6 @@
+#to run test
+#python3 test.py
+
 import pytablereader as ptr
 import pytablewriter as ptw
 
@@ -26,7 +29,6 @@ def main():
         ]))
 
     
-
     # load from a csv file ---
     loader = ptr.CsvTableFileLoader(file_path)
     for table_data in loader.load():
