@@ -10,6 +10,7 @@ def main():
     print("converting...")
     writer = MarkdownTableWriter()
     writer.from_csv(csv_file_path)
+    writer.margin = 1 
     writer.dump(markdown_file_path)
     print("done")
     
