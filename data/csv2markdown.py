@@ -7,6 +7,16 @@ import pytablewriter as ptw
 from pytablewriter import HtmlTableWriter
 from pytablewriter import MarkdownTableWriter
 
+def soft_wrap(text, width):
+    #not finish
+    #wrap a long text to given width
+    length=len(text)
+    interval=int(length/width)
+    for i in range(interval):
+        text= text[0:pos]+' '
+        
+    
+
 def convert(csv_file_path, html_file_path,table_name):
     print("this python script read table in ",csv_file_path, " and then write it into html file ",html_file_path)
     print("converting...")
@@ -15,8 +25,12 @@ def convert(csv_file_path, html_file_path,table_name):
     writer.from_csv(csv_file_path)
     writer.table_name = table_name
 
+    #limit width of first colum to be
+    col_width=24
     #modify the link in the fourth row to be an html link
     for row in writer.value_matrix:
+        if len(row[0]) > col_width :
+            row[0]=row[0][0:col_width]
         #row[3]='\n <a href="'+row[3]+'"> link </a> \n'
         row[3]='[link]('+row[3]+')'
     #print('tag ->',writer.is_escape_html_tag)
