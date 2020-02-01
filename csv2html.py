@@ -10,8 +10,9 @@ def convert(csv_file_path, html_file_path,table_name):
     writer.table_name = table_name
 
     #modify the link in the fourth row to be an html link
-    #for row in writer.value_matrix:
-    #    row[3]='\n <a href="'+row[3]+'"> link </a> \n'
+    for row in writer.value_matrix:
+        #row[3]='\n <a href="'+row[3]+'"> link </a> \n'
+        row[3]='link'
     #print('tag ->',writer.is_escape_html_tag)
     #writer.is_escape_html_tag=True
     #print('tag ->',writer.is_escape_html_tag)
