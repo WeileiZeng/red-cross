@@ -4,3 +4,15 @@ theme: jekyll-theme-cayman
 title: "武汉红十字网络监督会"
 #repository: "https://github.com/WeileiZeng/red-cross"
 repo: "https://github.com/weileizeng/red-cross"
+
+
+show_navigations: true
+
+navigations:
+  - name: test
+    url: tes
+  - name:   信息录入
+    url: https://weileizeng.github.io/red-cross/CONTRIBUTE
+
+
+  
