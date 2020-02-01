@@ -8,9 +8,16 @@ def convert(csv_file_path, html_file_path,table_name):
     writer = HtmlTableWriter()
     writer.from_csv(csv_file_path)
     writer.table_name = table_name
+
+    #modify the link in the fourth row to be an html link
+    #for row in writer.value_matrix:
+    #    row[3]='\n <a href="'+row[3]+'"> link </a> \n'
+    #print('tag ->',writer.is_escape_html_tag)
+    #writer.is_escape_html_tag=True
+    #print('tag ->',writer.is_escape_html_tag)
     writer.dump(html_file_path)
     #writer.write_table()
-    print("done")
+    print("done with ",table_name)
 
 def main():
     csv_file_path = "inflow.csv"

@@ -1,5 +1,5 @@
 
-[信息录入](/red-cross/CONTRIBUTE)
+[信息录入](./CONTRIBUTE)
 [免责声明](#免责声明)
 
 

@@ -1,5 +1,5 @@
 
-[信息录入](/red-cross/CONTRIBUTE)
+[信息录入](./CONTRIBUTE)
 [免责声明](#免责声明)
 
 
@@ -8,20 +8,16 @@
     <caption>物资流入表</caption>
     <thead>
         <tr>
-            <th>物资名称</th>
-            <th>数目</th>
+            <th>物资</th>
             <th>折算金额（万元）</th>
-            <th>流向</th>
-            <th>备注</th>
+            <th>来源</th>
             <th>链接</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td align="left">捐款3.9亿</td>
-            <td align="left">3.9亿</td>
             <td align="right">39000</td>
-            <td align="left"></td>
             <td align="left"></td>
             <td align="left">https://posts.careerengine.us/p/5e3329b80b20de7b7d61731f?from=latest-posts-panel&amp;type=title</td>
         </tr>
@@ -36,7 +32,6 @@
             <th>物资</th>
             <th>折算金额（万元）</th>
             <th>流向</th>
-            <th>备注</th>
             <th>链接</th>
         </tr>
     </thead>
@@ -45,12 +40,10 @@
             <td align="left">N95口罩36000个</td>
             <td align="right">36</td>
             <td align="left">武汉仁爱医院1.6万，武汉天佑医院1.6万</td>
-            <td align="left"></td>
             <td align="left">https://www.rfa.org/mandarin/yataibaodao/huanjing/ql2-01312020071453.html</td>
         </tr>
         <tr>
             <td align="left">护目镜144个</td>
-            <td align="left"></td>
             <td align="left"></td>
             <td align="left"></td>
             <td align="left">同上</td>
