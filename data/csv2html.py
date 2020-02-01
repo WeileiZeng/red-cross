@@ -21,14 +21,16 @@ def convert(csv_file_path, html_file_path,table_name):
     print("done with ",table_name)
 
 def main():
+    data_path=""
+    build_path="./../page/"
     csv_file_path = "inflow.csv"
     html_file_path = "inflow.html"
     table_name = "物资流入表"
-    convert(csv_file_path, html_file_path,table_name)
+    convert(data_path + csv_file_path, build_path + html_file_path,table_name)
     csv_file_path = "outflow.csv"
     html_file_path = "outflow.html"
     table_name = "物资流出表"
-    convert(csv_file_path, html_file_path,table_name)
+    convert(data_path + csv_file_path, build_path + html_file_path,table_name)
     
 if __name__=="__main__":
     main()
