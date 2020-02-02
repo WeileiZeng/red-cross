@@ -13,25 +13,19 @@
 
 ## 加入/联系我们？
 * open an issue
-* slack频道创建中
+* slack  [#proj-red-cross](https://slack.com/share/IT4GNGY7K/Al1FlZuPLmYqbKsZeZD2CiJC/enQtOTIyNTY2NTc2MjU3LWQ2MjJmY2M5YmFmNzc3YzIwNTA3MDVjYjcxYjMzZjVlOWU2YmUyNWRmYTQyODgwYjllZWQ3YzI3MTlmNWM5N2U)
 
 
 （请忽略以下内容）
 
-## 信息录入方式
+## 信息录入方式(已过期)
 
 可在石墨表格(
 [物资流入表](https://shimo.im/sheets/w6ywWRchryjtTT6T/MODOC/)
 [物资流出表](https://shimo.im/sheets/CGPGTrVR6yHKcQw8/MODOC/)
 )录入，或者提交[issue](https://github.com/WeileiZeng/red-cross/issues/1)录入 
 
-石墨表格审核（开发中）
 
-## 数据处理
-
-目前只处理武汉红十字会物资流入流出两个表格
-
-后期考虑添加湖北慈善总会，韩红基金会
 
 ## 免责声明
 
