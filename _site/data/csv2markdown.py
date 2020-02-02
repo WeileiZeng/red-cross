@@ -74,7 +74,8 @@ def convert(csv_file_path, html_file_path,table_name):
 def main():
     #convert all csv to markdown
     data_path=""
-    build_path="./../page/"
+    build_path="./../_includes/"
+    #build_path="./../page/"
     
     csv_file_path = "hubei-inflow.csv"
     html_file_path = "hubei-inflow.md"
