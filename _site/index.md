@@ -1,7 +1,7 @@
 
 [项目贡献](./CONTRIBUTE)
 [免责声明](#免责声明)
-[疫情导航](http://nav.werty.cn/0)
+[疫情导航](http://nav.werty.cn/)
 [武汉2020](https://wuhan2020.github.io/zh-cn/index.html)
 
 ### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠情况
@@ -51,6 +51,3 @@
 
 
 How to contribute? open an issue in [github](https://github.com/WeileiZeng/red-cross)
-
-
-
