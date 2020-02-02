@@ -76,18 +76,18 @@ def main():
     data_path=""
     build_path="./../page/"
     
-    csv_file_path = "inflow.csv"
-    html_file_path = "inflow.md"
+    csv_file_path = "hubei-inflow.csv"
+    html_file_path = "hubei-inflow.md"
     table_name = '' #"物资流入表"
     convert(data_path + csv_file_path, build_path + html_file_path,table_name)
     
-    csv_file_path = "outflow.csv"
-    html_file_path = "outflow.md"
+    csv_file_path = "hubei-outflow.csv"
+    html_file_path = "hubei-outflow.md"
     table_name = '' #"物资流出表"
     convert(data_path + csv_file_path, build_path + html_file_path,table_name)
 
-    csv_file_path = "donate.csv"
-    html_file_path = "donate.md"
+    csv_file_path = "hubei-donation.csv"
+    html_file_path = "hubei-donation.md"
     table_name = '' 
     convert(data_path + csv_file_path, build_path + html_file_path,table_name)
 
