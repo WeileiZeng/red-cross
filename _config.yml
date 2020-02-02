@@ -7,7 +7,9 @@ repo: "https://github.com/weileizeng/red-cross"
 
 google_analytics: UA-155170936-2
 
-visitor_count: 159
+#count total number of visitors
+visitor_count: 194
+visitor_count_timestamp: Feb 2, 1:15PM
 
 
 
