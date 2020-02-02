@@ -42,6 +42,15 @@
 |涿州华诺救生装备有限公司        |护目镜98个，医用橡胶手套198副，酒精消毒棉片|          2.30|华中科技大学校医院                 |                                                                                 |
 |苏州宝集沣生物科技有限公司      |拜欧海多汀1500支                           |         56.70|武汉市天佑医院                     |                                                                                 |
 
+### 部分官方网站链接
+* [湖北省红十字会](http://hbsredcross.org.cn/)
+
+
+### 红十字新闻大事件 （仅收集热点事件，不代表本站观点）
+
+* [寿光蔬菜事件](http://www.nbd.com.cn/articles/2020-01-30/1403811.html)
+* 2月1日 [鄂A0260W为领导提口罩](https://mp.weixin.qq.com/s/ts4v6aSPrL26DVt6dm63-A)
+* 2月1日 [央视直播被中断](https://mp.weixin.qq.com/s/z4cBGt6By1g39UP2g-z3ug)
 
 <br>
 
@@ -55,3 +64,9 @@
 
 
 How to contribute? open an issue in [github](https://github.com/WeileiZeng/red-cross)
+
+
+截止Feb 2, 11:45AM
+已有
+{{ site.visitor_count }}
+名云监工来过

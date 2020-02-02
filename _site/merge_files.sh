@@ -21,6 +21,8 @@ echo >> $out
 cat outflow.md >> $out
 echo >> $out
 
+cat news.md >> $out
+
 cat tail.md >> $out
 
 cd ..

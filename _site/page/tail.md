@@ -11,3 +11,9 @@
 
 
 How to contribute? open an issue in [github](https://github.com/WeileiZeng/red-cross)
+
+
+截止Feb 2, 11:45AM
+已有
+{{ site.visitor_count }}
+名云监工来过
