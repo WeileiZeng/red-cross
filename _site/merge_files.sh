@@ -20,6 +20,8 @@ echo "### [1月30日公布物资使用情况](http://www.hbsredcross.org.cn/xxgk
 echo >> $out
 cat outflow.md >> $out
 echo >> $out
+echo "注：“N95口罩36000个”更正为“KN95口罩36000个”，其流向“武汉仁爱医院1.6万、武汉天佑医院1.6万”更正为“武汉仁爱医院1.8万个、武汉天佑医院1.8万个”  [link](http://www.hbsredcross.org.cn/xxgk/8667.jhtml)" >> $out
+echo >> $out
 
 cat news.md >> $out
 
