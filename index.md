@@ -66,7 +66,10 @@
 * 2月1日 [鄂A0260W为领导提口罩](https://pincong.rocks/video/1088)
 * 2月1日 [央视直播红会仓库被中断](https://mp.weixin.qq.com/s/z4cBGt6By1g39UP2g-z3ug)
 * 2月1日 [三箱口罩成功实现量子瞬移——记武汉红会科研创新](https://mp.weixin.qq.com/s/Y30LUmh2aah-DVLqYbj8MA)
-<br>
+
+
+
+[还想知道更多？](https://weileizeng.com/news/1992/06/29/contact/)
 
 <div id="免责声明"> <h3> 免责声明 </h3> </div>
 
