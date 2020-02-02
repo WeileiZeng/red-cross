@@ -1,4 +1,6 @@
 
+<!-- please donot edit index.md but markdown file in /page/, which will be combined into index.md by ./merge_files.sh -->
+
 [项目贡献](./CONTRIBUTE)
 <!-- [免责声明](#免责声明) -->
 [疫情导航](http://nav.werty.cn/)
@@ -11,10 +13,10 @@
 
 ![img](data/donation-25-31.jpg)
 
-注：为什么27号这么高？这还是累计数据吗？笔者作为数据搬运工无法解释，读者可参考下表链接自行考证。
+注：为什么27号这么高？这还是累计数据吗？请湖北红十字会解释！
 
 
-### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠情况
+### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠表
 
 |编号| 日期 |累计捐款 万元|累计物资 万元|合计 万元|                         链接                         |
 |---:|------|------------:|------------:|--------:|------------------------------------------------------|

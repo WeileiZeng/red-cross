@@ -6,7 +6,7 @@ echo "this script merge all parts of readme into one file $out"
 
 cat head.md > $out
 
-echo "### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠情况" >> $out
+echo "### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠表" >> $out
 echo >> $out
 cat donate.md >> $out
 echo >> $out
