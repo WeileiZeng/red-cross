@@ -4,17 +4,19 @@
 
 ## 当前项目
 * 迁移湖北红十字官方数据，首页集中展示
+* 迁移武汉红十字官方数据，首页集中展示
 * 收集舆论进展，做个时间轴
 
 ## 当前需求
 * 湖北红十字官方数据整理
+* 武汉红十字官方数据整理
 * 舆论新闻收集，整理成大事件时间轴
 * 项目需求规划，页面功能规划
 
 ## 加入/联系我们？
 * open an issue
 * slack  [#proj-red-cross](https://slack.com/share/IT4GNGY7K/Al1FlZuPLmYqbKsZeZD2CiJC/enQtOTIyNTY2NTc2MjU3LWQ2MjJmY2M5YmFmNzc3YzIwNTA3MDVjYjcxYjMzZjVlOWU2YmUyNWRmYTQyODgwYjllZWQ3YzI3MTlmNWM5N2U)
-
+* [留言](https://weileizeng.com/news/1992/06/29/contact/)
 
 （请忽略以下内容）
 

@@ -14,3 +14,11 @@
  * * [pytableloader](https://pytablereader.readthedocs.io/en/latest/index.html)
 
 
+### 网页逻辑
+* index.md
+homepage. Its parts is saved in /page/, then combined into index.md by ./merge_files.sh. I do this to include table files generate by python.
+* /data/ save csv files for tables and other figures/data
+* /raw_data/ back up for the data we used for analysis, for example, the detail record of donation.
+* /test/ contain test files like some python scripts
+* CONTRIBUTE.md progress on current projects
+* development.md development for the webpage
