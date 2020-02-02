@@ -1,4 +1,7 @@
 
+本站旨在收集湖北/武汉红十字的相关公示信息，集中展示，为大家做参考。同时我们对舆论节点做一个时间轴整理
+
+
 使用者请进入[项目网站](https://weileizeng.github.io/red-cross/)
 
 贡献者请进入[网站开发与维护](https://weileizeng.github.io/red-cross/CONTRIBUTE)
