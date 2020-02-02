@@ -3,7 +3,7 @@
 [免责声明](#免责声明)
 [疫情导航](http://nav.werty.cn/)
 [武汉2020](https://wuhan2020.github.io/zh-cn/index.html)
-
+[联系我们](https://weileizeng.com/news/1992/06/29/contact/)
 ### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠情况
 
 |编号| 日期 |累计捐款 万元|累计物资 万元|合计 万元|                         链接                         |

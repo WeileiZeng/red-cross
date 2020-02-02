@@ -1,5 +1,6 @@
 [返回首页](./)
 [网页开发](./development)
+[联系我们](https://weileizeng.com/news/1992/06/29/contact/)
 
 ## 当前项目
 * 迁移湖北红十字官方数据，首页集中展示
