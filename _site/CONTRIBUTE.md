@@ -14,7 +14,7 @@
 * 项目需求规划，页面功能规划
 
 ## 加入/联系我们？
-* open an issue
+* open an issue at [GitHub](https://github.com/WeileiZeng/red-cross)
 * slack  [#proj-red-cross](https://slack.com/share/IT4GNGY7K/Al1FlZuPLmYqbKsZeZD2CiJC/enQtOTIyNTY2NTc2MjU3LWQ2MjJmY2M5YmFmNzc3YzIwNTA3MDVjYjcxYjMzZjVlOWU2YmUyNWRmYTQyODgwYjllZWQ3YzI3MTlmNWM5N2U)
 * [留言](https://weileizeng.com/news/1992/06/29/contact/)
 
