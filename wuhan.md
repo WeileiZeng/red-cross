@@ -14,5 +14,6 @@
 {% include wuhan-data.md %}
 
 
+{% include news.md %}
 
 {% include tail.md %}
