@@ -1,21 +1,33 @@
 
-
-{% include head.md %}
-
-### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠表
-
-{% include hubei-donation.md %}
+{% include navigation.md %}
 
 
+本站旨在收集湖北/武汉红十字的相关公示信息，集中展示，为大家做参考。同时我们对舆论节点做一个[时间轴](#时间轴)整理。
+
+### 官网公示数据概览
+截止1月31日，湖北省红十字会累计收到 捐款和物资4.46亿元。共发放862万元物资（30日）。
+
+截止1月2日，武汉市红十字会累计收到捐款7.19亿，共拨款3.62亿（28，30，31号拨款总额）
+
+注：官网公示数据不代表实际数据（有些未公布），但是可以反应出信息透明度。
+
+### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠曲线图
+
+![img](data/hubei-donation-25-31.jpg)
+
+为什么27号这么高？这还是累计数据吗？请湖北红十字会解释！
 
 
-### [1月30日公布物资使用情况](http://www.hbsredcross.org.cn/xxgk/4704.jhtml)
+### 武汉市红十字会捐赠收入
 
 
-{% include hubei-outflow.md %}
+![](data/wh_sr_redcross2_1.jpg)
 
+官网每日发布总额与官网每日发布明细之总额做对比。
+其中，1月28至30日明细统计远高于官网公布总额
 
-注：“N95口罩36000个”更正为“KN95口罩36000个”，其流向“武汉仁爱医院1.6万、武汉天佑医院1.6万”更正为“武汉仁爱医院1.8万个、武汉天佑医院1.8万个”  [link](http://www.hbsredcross.org.cn/xxgk/8667.jhtml)
+[查看统计数据](raw_data/summary/武汉红十字会捐款收支情况.xlsx) 
+
 
 
 {% include news.md %}
