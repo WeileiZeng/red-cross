@@ -1,10 +1,9 @@
 
 
-[监工首页](./)
-[给湖北监工](./hubei)
-[给武汉监工](./wuhan)
-[项目贡献](./CONTRIBUTE)
-[联系我们](https://weileizeng.com/news/1992/06/29/contact/)
+
+<!-- <a href="./" class="btn">首页</a> <a href="./hubei" class="btn">给湖北监工</a> <a href="./wuhan" class="btn">给武汉监工</a> -->
+
+### [首页](./) [给湖北监工](./hubei) [给武汉监工](./wuhan) [项目贡献](./CONTRIBUTE) [联系我们](https://weileizeng.com/news/1992/06/29/contact/)
 
 <!-- [免责声明](#免责声明) -->
 <!--

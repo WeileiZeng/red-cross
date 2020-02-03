@@ -12,3 +12,21 @@ footer {
   display: none !important;
 }
 */
+
+:root {
+    --btn-color: 
+}
+
+.btn {
+
+  color: rgba(35, 165, 145, 0.7);
+  background-color: rgba(30, 165, 145, 0.08);
+  border-color: rgba(35, 165, 145, 0.2);
+
+  &:hover {
+    color: rgba(35, 165, 145, 0.8);
+    text-decoration: none;
+    background-color: rgba(35, 165, 145, 0.2);
+    border-color: rgba(35, 165, 145, 0.3);
+  }
+}
