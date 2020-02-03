@@ -4,6 +4,10 @@ This folder saves some raw data, including tables downloaded from the source lin
 
 ## explaination for some of the data
 
+* hubei/ 湖北红十字官网数据
+* wuhan/ 武汉红十字官网数据
+* summary/  本站初步统计数据
+
 ### note for hubei:
 
 donate04 is not posted online
