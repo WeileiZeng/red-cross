@@ -21,12 +21,12 @@
 ### 武汉市红十字会捐赠收入
 
 
-![](data/wh_sr_redcross2_1.jpg)
+![](data/wh_sr_redcross2_2.jpg)
 
 官网每日发布总额与官网每日发布明细之总额做对比。
 其中，1月28至30日明细统计远高于官网公布总额
 
-[查看统计数据](raw_data/summary/武汉红十字会捐款收支情况.xlsx) 
+[查看统计数据](raw_data/summary/武汉红十字会捐款收支情况2.xlsx) 
 
 
 

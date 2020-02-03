@@ -2,14 +2,14 @@
 {% include navigation.md %}
 
 
-### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠曲线图
+### 湖北省红十字会累计捐赠曲线图
 
 ![img](data/hubei-donation-25-31.jpg)
 
 为什么27号这么高？这还是累计数据吗？请湖北红十字会解释！
 
 
-### [湖北省红十字会](http://hbsredcross.org.cn/)累计捐赠表
+### 湖北省红十字会累计捐赠表
 
 {% include hubei-donation.md %}
 
