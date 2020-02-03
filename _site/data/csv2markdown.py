@@ -92,6 +92,11 @@ def main():
     table_name = '' 
     convert(data_path + csv_file_path, build_path + html_file_path,table_name)
 
+    csv_file_path = "wuhan-donation.csv"
+    html_file_path = "wuhan-donation.md"
+    table_name = '' 
+    convert(data_path + csv_file_path, build_path + html_file_path,table_name)
+
 if __name__=="__main__":
 
     main()
