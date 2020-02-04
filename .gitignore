@@ -1,3 +1,8 @@
+# build path for jekyll
 \_site/
+# mac files
 .DS_Store
+# temp backup file in linux
 *~
+# temp backup file for excel during openning
+~*
