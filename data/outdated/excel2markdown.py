@@ -7,6 +7,20 @@ import pytablewriter as ptw
 from pytablewriter import HtmlTableWriter
 from pytablewriter import MarkdownTableWriter
 
+from pytablereader import ExcelTableFileLoader
+
+def test(file_path,markdown_file_path):
+    file_path='temp2.csv'
+    loader=ExcelTableFileLoader(file_path)
+    writer=MarkdownTableWriter()
+    writer.is_write_header=False
+    tabledata=loader.load()
+    tabledata[1] = tabledata[2][0]
+    writer.from_tabledata(tabledata,False)
+
+    #writer.table_name=table_name
+    writer.dump(markdown_file_path)
+
 def soft_wrap(text, width):
     #not finish
     #wrap a long text to given width
@@ -14,7 +28,7 @@ def soft_wrap(text, width):
     interval=int(length/width)
     for i in range(interval):
         text= text[0:pos]+' '
-        
+
     
 
 def convert(csv_file_path, html_file_path,table_name):
@@ -22,9 +36,9 @@ def convert(csv_file_path, html_file_path,table_name):
     print("converting...")
     #writer = HtmlTableWriter()
     writer = MarkdownTableWriter()
-    #writer.is_write_header=False
     writer.from_csv(csv_file_path)
     writer.table_name = table_name
+
 
 
     #get the column for link
@@ -99,6 +113,6 @@ def main():
     convert(data_path + csv_file_path, build_path + html_file_path,table_name)
 
 if __name__=="__main__":
-    #convert('temp2.csv','temp2.md','name')
-    main()
+    test('wuhan-donation-summary.xlsx','temp.md')
+    #main()
 

@@ -18,3 +18,8 @@
 * [武汉肺炎：在争议声中被全民监督的红十字会](https://www.bbc.com/zhongwen/simp/chinese-news-51338241)
 * [《长江日报》“七问”武汉市红十字会](https://kuaibao.qq.com/s/20200126A06R3900?refer=spider)
 * [五问湖北红十字会，“痛定思痛”后这些情况仍待澄清](http://www.bjnews.com.cn/news/2020/02/01/682834.html)
+* [武汉红会半个月没搞明白的仓库，九州通接管后 2 个小时就整完了](https://posts.careerengine.us/p/5e36c9e344aa86793c0aa503?from=marquee)
+
+
+
+
