@@ -20,7 +20,8 @@
 * [《长江日报》“七问”武汉市红十字会](https://kuaibao.qq.com/s/20200126A06R3900?refer=spider)
 * [五问湖北红十字会，“痛定思痛”后这些情况仍待澄清](http://www.bjnews.com.cn/news/2020/02/01/682834.html)
 * [武汉红会半个月没搞明白的仓库，九州通接管后 2 个小时就整完了](https://posts.careerengine.us/p/5e36c9e344aa86793c0aa503?from=marquee)
-
+* [趟一趟武汉红十字这潭浑水](https://cfcnews.com/278186/%E5%8E%9F%E5%88%9B-i-%E8%B6%9F%E4%B8%80%E8%B6%9F%E6%AD%A6%E6%B1%89%E7%BA%A2%E5%8D%81%E5%AD%97%E8%BF%99%E6%BD%AD%E6%B5%91%E6%B0%B4/)
+* [湖北多地红十字会在疫情中收支了哪些援助？我们统计了一下](https://m.mp.oeeee.com/a/BAAFRD000020200202257263.html)
 
 
 
