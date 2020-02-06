@@ -28,7 +28,10 @@
 
 <iframe src="https://azurini.github.io/HB_wz_fafang_1.html" width="100%" height="420"></iframe>
 
+<iframe src="https://azurini.github.io/HB_wz_laiyuan.html" width="100%" height="500"></iframe>
 
+
+#### 1月31日物资发放明细
 
 {% include hubei-outflow.md %}
 
