@@ -19,23 +19,13 @@
 这么简单的错误，只是红十字官网数据不合理之处的九牛一毛。本站对官网数据的摸索途中，发现了无数个瓜。。
 [去给湖北红十字会监工](./hubei)
 
-### 武汉市红十字会--实际捐款数额与公示情况对比 
+### 武汉市红十字会捐赠收入
 
 
-<!--  ![](data/wh_sr_redcross2_2.jpg)  -->
-
-
-![](https://github.com/azurini/data_public/blob/master/武汉红十字会--实际捐款数额与公示情况对比.jpg?raw=true)
+![](data/wh_sr_redcross2_2.jpg)
 
 官网每日发布总额与官网每日发布明细之总额做对比。
 其中，1月28至30日明细统计远高于官网公布总额
-
-
-### 武汉红十字会--收支情况
-
-![](https://github.com/azurini/data_public/blob/master/武汉红十字会--收支情况.jpg?raw=true)
-
-
 [去给武汉红十字监工](./wuhan)
 
 <!-- [查看统计数据](raw_data/summary/武汉红十字会捐款收支情况2.xlsx) -->
