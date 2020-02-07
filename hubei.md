@@ -25,9 +25,9 @@
 ### [1月30日公布物资使用情况](http://www.hbsredcross.org.cn/xxgk/4704.jhtml)
 
 
-<iframe src="https://azurini.github.io/HB_wz_fafang_1.html" width="100%" height="420"></iframe>
+<iframe src="https://azurini.github.io/HB_wz_fafang_1.html" width="100%" height="420" frameborder="0" ></iframe>
 
-<iframe src="https://azurini.github.io/HB_wz_laiyuan.html" width="100%" height="500"></iframe>
+<iframe src="https://azurini.github.io/HB_wz_laiyuan.html" width="100%" height="500" frameborder="0"></iframe>
 
 
 #### 1月31日物资发放明细
