@@ -24,7 +24,7 @@
 * [湖北多地红十字会在疫情中收支了哪些援助？我们统计了一下](https://m.mp.oeeee.com/a/BAAFRD000020200202257263.html)
 
 舆论词条
-<iframe src="https://azurini.github.io/ciyun.html" width="100%" height="360"></iframe>
+<iframe src="https://azurini.github.io/ciyun.html" width="100%" height="360" frameborder="0"></iframe>
 
 
 
