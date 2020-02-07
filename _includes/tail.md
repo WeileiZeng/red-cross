@@ -8,3 +8,5 @@
 {% include duty.md %}
 
 {% include visitors.md %}
+
+{% include facebook-comments.md %}

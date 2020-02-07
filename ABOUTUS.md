@@ -16,20 +16,15 @@
 * [留言](https://weileizeng.com/news/1992/06/29/contact/)
 
 
+{% include duty.md %}
 
 
-## 免责声明
-
-本站不生产任何数据，仅供参考。所有数据来源于官方发布和新闻报道，我们仅提供链接，请各位自行查证。
-
-我们统计方法可能有偏颇遗漏，欢迎指正。
+### 更多链接
 
 
-## 更多链接
-
-
-[项目贡献](./CONTRIBUTE)
-[网页开发](./development)
+[Github](https://github.com/WeileiZeng/red-cross)
 [疫情导航](http://nav.werty.cn/)
 [武汉2020](https://wuhan2020.github.io/zh-cn/index.html)
+[OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/)
 
+{% include facebook-comments.md %}
