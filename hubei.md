@@ -6,7 +6,7 @@
 
 ![img](data/hubei-donation-25-31.jpg)
 
-截止2月6日，官网未有捐款数据更新。
+图中数据截止至2月6日，2至4日官网未有捐款数据更新。6至10日更新数据请参考[查看明细](./data/hubei-donation.csv)
 
 <!-- ### 湖北省红十字会累计捐赠表 { % include hubei-donation.md %} -->
 

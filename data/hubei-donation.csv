@@ -1,8 +1,19 @@
-﻿编号,日期,累计捐款 万元,累计物资 万元,合计 万元,链接
-1,25-Jan,5541.36,856.344,6397.704,http://www.hbsredcross.org.cn/xxgk/4292.jhtml
-2,26-Jan,8673.78,875.39,9549.17,http://www.hbsredcross.org.cn/xxgk/4393.jhtml
-3,27-Jan,26764.46,2248.68,29013.14,http://www.hbsredcross.org.cn/xxgk/4417.jhtml
-4,28-Jan,19549.85,1663.5,21213.35,http://www.hbsredcross.org.cn/xxgk/4628.jhtml
-5,29-Jan,28017.08,1699.5,29716.58,http://www.hbsredcross.org.cn/xxgk/4629.jhtml
-6,30-Jan,36069.29,1836.2,37905.49,http://www.hbsredcross.org.cn/xxgk/4858.jhtml
-7,31-Jan,42767.32,1876.2,44643.52,http://www.hbsredcross.org.cn/xxgk/10063.jhtml
+﻿编号,日期 24时(官方统计用时),日期 0时,当日捐款 万元,累计捐款 万元,当日物资 万元,累计物资 万元,合计 万元,链接
+1,24-Jan,25-Jan,,5541.36,,856.344,6397.704,http://www.hbsredcross.org.cn/xxgk/4292.jhtml
+2,25-Jan,26-Jan,,8673.78,,875.39,9549.17,http://www.hbsredcross.org.cn/xxgk/4393.jhtml
+3,26-Jan,27-Jan,,26764.46,,2248.68,29013.14,http://www.hbsredcross.org.cn/xxgk/4417.jhtml
+4,27-Jan,28-Jan,,19549.85,,1663.5,21213.35,http://www.hbsredcross.org.cn/xxgk/4628.jhtml
+5,28-Jan,29-Jan,,28017.08,,1699.5,29716.58,http://www.hbsredcross.org.cn/xxgk/4629.jhtml
+6,29-Jan,30-Jan,,36069.29,,1836.2,37905.49,http://www.hbsredcross.org.cn/xxgk/4858.jhtml
+7,30-Jan,31-Jan,,42767.32,,1876.2,44643.52,http://www.hbsredcross.org.cn/xxgk/10063.jhtml
+8,31-Jan,1-Feb,11961.25259,54728.57259,,1876.2,56604.77259,http://www.hbsredcross.org.cn/xxgk/47051.jhtml
+9,1-Feb,2-Feb,2976.311798,57704.88439,,1876.2,59581.08439,http://www.hbsredcross.org.cn/xxgk/47051.jhtml
+10,2-Feb,3-Feb,3693.301491,61398.18588,,1876.2,63274.38588,http://www.hbsredcross.org.cn/xxgk/47051.jhtml
+11,3-Feb,4-Feb,4888.594804,66286.78068,,1876.2,68162.98068,http://www.hbsredcross.org.cn/xxgk/47051.jhtml
+12,4-Feb,5-Feb,936.060002,67222.84069,,1876.2,69099.04069,http://www.hbsredcross.org.cn/xxgk/47051.jhtml
+13,5-Feb,6-Feb,3501.09775,70723.93844,,1876.2,72600.13844,http://www.hbsredcross.org.cn/xxgk/47051.jhtml
+14,6-Feb,7-Feb,"6,341.39",77065.33107,,1876.2,78941.53107,http://www.hbsredcross.org.cn/xxgk/47051.jhtml
+15,7-Feb,8-Feb,2836.016137,79901.3472,,1876.2,81777.5472,http://www.hbsredcross.org.cn/xxgk/47051.jhtml
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
