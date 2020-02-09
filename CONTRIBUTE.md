@@ -6,7 +6,6 @@
 在疫情发生后，网上对湖北/武汉红十字会的应对产生了质疑。本站旨在深度挖掘湖北/武汉红十字会的物资流入流出情况，并展示。各位对技术，方向，内容有任何建议都欢迎加入进来，或者给我们留言。
 
 
-
 ## 当前项目
 * 迁移湖北红十字官方数据，首页集中展示
 * 迁移武汉红十字官方数据，首页集中展示
@@ -23,15 +22,18 @@
 * slack  [#proj-red-cross](https://slack.com/share/IT4GNGY7K/Al1FlZuPLmYqbKsZeZD2CiJC/enQtOTIyNTY2NTc2MjU3LWQ2MjJmY2M5YmFmNzc3YzIwNTA3MDVjYjcxYjMzZjVlOWU2YmUyNWRmYTQyODgwYjllZWQ3YzI3MTlmNWM5N2U)
 * [留言](https://weileizeng.com/news/1992/06/29/contact/)
 
-（请忽略以下内容）
 
-## 信息录入方式(已过期)
+## 湖北数据说明
+* [./data/hubei-donation.csv](./data/hubei-donation.csv)  累计捐赠
+* [./data/hubei-outflow.csv](./data/hubei-outflow.csv)   首日物资发放
+* [./raw_data/hubei/hubei-outflow-summary.csv](./raw_data/hubei/hubei-outflow-summary.csv) 定向物资 捐赠与流向
+* [./raw_data/hubei/donate..]()  每日捐赠数目
+* [./raw_data/hubei/hubei-outflow..]()  每日物资发放
+* [./raw_data/hubei/wuzi01.xlsx](./raw_data/hubei/wuzi01.xlsx)  首日物资发放
 
-可在石墨表格(
-[物资流入表](https://shimo.im/sheets/w6ywWRchryjtTT6T/MODOC/)
-[物资流出表](https://shimo.im/sheets/CGPGTrVR6yHKcQw8/MODOC/)
-)录入，或者提交[issue](https://github.com/WeileiZeng/red-cross/issues/1)录入 
-
+## 武汉数据说明
+* [./data/wuhan-donation-summary.png](./data/wuhan-donation-summary.png) 武汉捐赠信息汇总图
+其他请参考 repo [azurini/data_public](https://github.com/azurini/data_public)
 
 
 ## 免责声明
